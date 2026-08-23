@@ -36,8 +36,8 @@ ravindu-portfolio-nextjs-complete/
 │   └── images/
 │       └── home/
 ├── public/
-│   └── documents/
-│       └── Ravindu-Kaveesha-CV.pdf
+│   
+│  
 ├── data/
 │   └── home/
 │       └── content.ts
