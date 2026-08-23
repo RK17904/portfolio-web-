@@ -87,11 +87,10 @@ export default function Hero() {
        * Very subtle idle movement.
        *
        * The whole avatar floats gently.
-       * AnimatedFace handles the eyes independently.
        */
       gsap.to(".hero-avatar", {
         y: -8,
-        duration: 2.8,
+        duration: 4.8,
         yoyo: true,
         repeat: -1,
         ease: "sine.inOut",
