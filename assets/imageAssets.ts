@@ -1,5 +1,6 @@
 import heroAccent from "@/assets/images/home/hero/hero-accent.png";
 import heroAvatar from "@/assets/images/home/hero/ravindu-avatar.png";
+import heroImage  from "@/assets/images/home/hero/hero-image.png";
 
 import aboutPortrait from "@/assets/images/home/about/about-portrait.png";
 
@@ -13,6 +14,7 @@ export const imageAssets = {
     hero: {
       accent: heroAccent,
       avatar: heroAvatar,
+      character:heroImage
     },
     about: {
       portrait: aboutPortrait,
